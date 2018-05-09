@@ -1,0 +1,2 @@
+class Toronto < ApplicationRecord
+end
